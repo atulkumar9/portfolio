@@ -40,7 +40,7 @@ export default function About({}: Props) {
         <Image 
           className='-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]'
           src={Avatar}
-          alt="Picture of the author"
+          alt="Picture of the authors"
           width={500}
           height={500}
         />
